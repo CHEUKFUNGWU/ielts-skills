@@ -17,16 +17,16 @@
 
 ```bash
 # All four skills
-npx skills add <your-github-username>/ielts-skills
+npx skills add CHEUKFUNGWU/ielts-skills
 
 # Or just the ones you need
-npx skills add <your-github-username>/ielts-skills --skill ielts-writing-task2
+npx skills add CHEUKFUNGWU/ielts-skills --skill ielts-writing-task2
 ```
 
 Local checkout:
 
 ```bash
-git clone https://github.com/<your-github-username>/ielts-skills
+git clone https://github.com/CHEUKFUNGWU/ielts-skills
 npx skills add ./ielts-skills
 ```
 
