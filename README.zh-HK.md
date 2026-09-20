@@ -83,6 +83,14 @@ skills/
 
 每個 `SKILL.md` 負責工作流程和資料路由。詳細內容放在 `references/`，只會在任務需要時載入。
 
+## 行為測試
+
+[`evals/`](evals/) 包含 20 個真實使用情境，用於檢查評分界線、詞彙判斷和學習計劃行為。執行以下指令檢查測試資料結構：
+
+```bash
+python3 evals/validate_cases.py
+```
+
 ## 重要說明
 
 - 本項目是非官方學習材料，與 IELTS、Cambridge University Press & Assessment、British Council 或 IDP 沒有關聯，亦未獲得其認可。

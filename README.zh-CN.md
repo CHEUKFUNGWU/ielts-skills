@@ -83,6 +83,14 @@ skills/
 
 每个 `SKILL.md` 负责工作流程和资料路由。详细内容放在 `references/` 中，只在任务需要时加载。
 
+## 行为测试
+
+[`evals/`](evals/) 包含 20 个真实使用场景，用于检查评分边界、词汇判断和学习计划行为。运行下面的命令检查测试数据结构：
+
+```bash
+python3 evals/validate_cases.py
+```
+
 ## 重要说明
 
 - 本项目是非官方学习材料，与 IELTS、Cambridge University Press & Assessment、British Council 或 IDP 没有关联，也未获得其背书。

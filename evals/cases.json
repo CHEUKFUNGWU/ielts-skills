@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "cases": [
+    {
+      "id": "task1-academic-missing-chart",
+      "skill": "ielts-writing-task1",
+      "mode": "Grade",
+      "priority": "critical",
+      "request": "I wrote this Academic Task 1 report, but I do not have the chart anymore. Please give me all four Band scores. Report: The line graph compares three sources of energy between 1990 and 2020. Overall, solar rose while coal fell. Solar increased steadily and finished at 60 units. Coal declined to 40 units.",
+      "expected": [
+        "Explains that Task Achievement cannot be scored reliably without the chart or full task",
+        "Still offers evidence-based feedback on organisation, vocabulary and grammar",
+        "Labels any Task Achievement comment as conditional or provisional"
+      ],
+      "forbidden": [
+        "Invents chart values, categories or trends",
+        "Gives an unqualified Task Achievement score"
+      ]
+    },
+    {
+      "id": "task1-unreadable-values",
+      "skill": "ielts-writing-task1",
+      "mode": "Grade",
+      "priority": "critical",
+      "request": "The attached bar chart is blurry and several values cannot be read. My report says Group A was 42%, Group B was 37%, and Group C was 19%. Please check whether every number is accurate.",
+      "context": "Assume the image is present but the three stated values are not legible.",
+      "expected": [
+        "Identifies which data cannot be verified",
+        "Offers to assess language and visible features separately",
+        "Avoids treating unreadable values as confirmed errors"
+      ],
+      "forbidden": [
+        "Claims to see exact unreadable values",
+        "Replaces the values with guessed numbers"
+      ]
+    },
+    {
+      "id": "task1-three-paragraph-structure",
+      "skill": "ielts-writing-task1",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "Grade this report. It uses three paragraphs: an introduction with a clear overview, followed by two well-grouped detail paragraphs. Does the paragraph count reduce my Coherence and Cohesion score?",
+      "expected": [
+        "Judges whether the actual grouping and progression are clear",
+        "States that four paragraphs are a teaching default rather than an official requirement"
+      ],
+      "forbidden": [
+        "Automatically deducts marks because the response has three paragraphs",
+        "Requires a separate overview paragraph"
+      ]
+    },
+    {
+      "id": "task1-overview-without-overall",
+      "skill": "ielts-writing-task1",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "My overview is: 'The clearest pattern is the steady decline in coal use, while renewable energy became the second-largest source by the end of the period.' I did not write 'Overall'. Is that a problem?",
+      "expected": [
+        "Evaluates whether the sentence clearly summarises the main features",
+        "Explains that the word Overall is optional"
+      ],
+      "forbidden": [
+        "Marks the overview as missing solely because Overall is absent",
+        "Requires exactly two overview sentences"
+      ]
+    },
+    {
+      "id": "task1-gt-missing-prompt",
+      "skill": "ielts-writing-task1",
+      "mode": "Grade",
+      "priority": "critical",
+      "request": "Here is my General Training letter. I no longer have the question. Please score Task Achievement. 'Dear Sir or Madam, I am writing about the room I rented last week. The heating did not work, and I would like a partial refund.'",
+      "expected": [
+        "Explains that purpose and bullet-point coverage cannot be fully checked without the prompt",
+        "Comments conditionally on the visible purpose and tone"
+      ],
+      "forbidden": [
+        "Invents three bullet points",
+        "Gives a definite Task Achievement score"
+      ]
+    },
+    {
+      "id": "task1-gt-informal-kids",
+      "skill": "ielts-writing-task1",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "The task asks me to write to a close friend about a family holiday. I wrote: 'The kids loved the beach, and we stayed there until sunset.' Is kids inappropriate for IELTS?",
+      "expected": [
+        "Judges register using the close-friend context",
+        "Explains that kids can be natural in an informal letter"
+      ],
+      "forbidden": [
+        "Calls kids an automatic IELTS error",
+        "Requires children solely because this is a writing test"
+      ]
+    },
+    {
+      "id": "task2-missing-prompt",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "critical",
+      "request": "I lost the question, but here is my Task 2 essay about public transport. Please give me a precise score for all four criteria.",
+      "context": "No essay prompt is supplied.",
+      "expected": [
+        "Explains that Task Response cannot be scored reliably without the exact prompt",
+        "Offers to assess the other three criteria if the essay text is supplied",
+        "Avoids pretending that the topic alone reveals the task instructions"
+      ],
+      "forbidden": [
+        "Gives a definite Task Response score",
+        "Invents an agree-disagree or discussion prompt"
+      ]
+    },
+    {
+      "id": "task2-double-question-half-answered",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "critical",
+      "request": "Question: Why are fewer people reading newspapers, and what can publishers do to attract readers? My essay explains three reasons for the decline but gives no solutions. Grade it.",
+      "expected": [
+        "Identifies the unanswered solutions question as a major Task Response limitation",
+        "Uses the supplied instructions as evidence",
+        "Keeps language scores separate from task coverage"
+      ],
+      "forbidden": [
+        "Treats three developed causes as complete coverage",
+        "Lets strong grammar erase the missing half of the task"
+      ]
+    },
+    {
+      "id": "task2-five-paragraph-essay",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "My essay has an introduction, three focused body paragraphs and a conclusion. Each body paragraph supports the same position. Should I lose marks because the skill recommends four paragraphs?",
+      "expected": [
+        "Evaluates paragraph unity, order and development",
+        "States that four paragraphs are a safe default rather than a scoring rule"
+      ],
+      "forbidden": [
+        "Automatically deducts marks for using five paragraphs",
+        "Requires two body paragraphs in every Task 2 essay"
+      ]
+    },
+    {
+      "id": "task2-no-concession-needed",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "This is a fully-agree essay with two developed reasons. I did not include an Admittedly... However... sentence. Does that prevent Band 7?",
+      "expected": [
+        "Explains that a concession is optional unless the argument needs one",
+        "Focuses on clear position, relevance and development"
+      ],
+      "forbidden": [
+        "Claims that every Band 7 essay needs a concession-refutation structure",
+        "Treats one memorised phrase as a Band requirement"
+      ]
+    },
+    {
+      "id": "task2-connector-context",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "My essay uses Moreover twice and In addition once. Are these three words enough to make Coherence and Cohesion Band 6?",
+      "expected": [
+        "Checks whether each connector expresses the intended relationship and whether repetition feels mechanical",
+        "States that there is no official numerical limit"
+      ],
+      "forbidden": [
+        "Converts connector count directly into a Band",
+        "Bans Moreover or In addition without reading the sentences"
+      ]
+    },
+    {
+      "id": "task2-many-repeated-errors",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "Please grade my 320-word essay. It contains repeated article, agreement and sentence-boundary errors throughout. I want useful feedback, not a rewritten essay.",
+      "expected": [
+        "Groups repeated errors and marks them as systematic",
+        "Shows a manageable set of representative examples",
+        "Prioritises no more than three next actions"
+      ],
+      "forbidden": [
+        "Lists dozens of near-identical corrections without grouping",
+        "Replaces the full essay with a model answer"
+      ]
+    },
+    {
+      "id": "task2-explicit-full-rewrite",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "standard",
+      "request": "After grading my complete essay, rewrite the whole essay while preserving my position and main ideas. I explicitly want a full rewrite this time.",
+      "expected": [
+        "Provides grading evidence before the rewrite",
+        "Honours the explicit request for a full rewrite",
+        "Preserves the student's position and main ideas"
+      ],
+      "forbidden": [
+        "Refuses the full rewrite merely because the default protocol prefers minimal edits",
+        "Changes the student's position without explanation"
+      ]
+    },
+    {
+      "id": "task2-single-paragraph",
+      "skill": "ielts-writing-task2",
+      "mode": "Grade",
+      "priority": "critical",
+      "request": "Here is one body paragraph from my essay. Please give me an overall IELTS Writing score for the full essay.",
+      "context": "Only one paragraph is supplied.",
+      "expected": [
+        "Declines to score the unseen full essay",
+        "Offers local feedback on relevance, development, cohesion and language",
+        "Explains what additional material is needed for a full score"
+      ],
+      "forbidden": [
+        "Produces an overall four-criterion essay score",
+        "Assumes the missing introduction or conclusion"
+      ]
+    },
+    {
+      "id": "vocab-curb-emissions",
+      "skill": "ielts-band8-vocabulary",
+      "mode": "Decide",
+      "priority": "critical",
+      "request": "Can I write 'governments should curb emissions from private vehicles' in an IELTS essay? Your corpus says curb emissions has zero hits.",
+      "expected": [
+        "Separates zero hits in the internal corpus from grammatical acceptability",
+        "Judges the phrase in its sentence context",
+        "May offer alternatives without claiming they are automatically better"
+      ],
+      "forbidden": [
+        "Calls the phrase wrong solely because it has zero hits",
+        "Presents the internal count as official IELTS evidence"
+      ]
+    },
+    {
+      "id": "vocab-get-in-context",
+      "skill": "ielts-band8-vocabulary",
+      "mode": "Decide",
+      "priority": "standard",
+      "request": "Is get always too informal? My sentence is: 'Students who get enough sleep are more likely to concentrate in class.'",
+      "expected": [
+        "Evaluates get in the supplied collocation and register",
+        "Explains that common words are not automatic errors",
+        "Offers a revision only if it improves precision or tone"
+      ],
+      "forbidden": [
+        "Bans get from all IELTS essays",
+        "Replaces it with acquire in this sentence"
+      ]
+    },
+    {
+      "id": "vocab-upgrade-needs-context",
+      "skill": "ielts-band8-vocabulary",
+      "mode": "Upgrade",
+      "priority": "standard",
+      "request": "Give me a more advanced word for important.",
+      "expected": [
+        "Explains that the best replacement depends on what is important and why",
+        "Requests context or gives clearly differentiated examples",
+        "Prioritises precision over difficulty"
+      ],
+      "forbidden": [
+        "Returns an undifferentiated synonym list as direct substitutes",
+        "Labels a rare synonym as a guaranteed Band 8 word"
+      ]
+    },
+    {
+      "id": "vocab-zero-hit-boundary",
+      "skill": "ielts-band8-vocabulary",
+      "mode": "Decide",
+      "priority": "critical",
+      "request": "The phrase 'screen time' has zero hits in your corpus. Prove that IELTS examiners dislike it.",
+      "expected": [
+        "Rejects the requested inference",
+        "Explains that zero hits only describe the internal corpus and exact search form",
+        "States that examiner preference cannot be inferred from this count"
+      ],
+      "forbidden": [
+        "Claims that zero hits prove examiner dislike",
+        "Describes the corpus as official or independently reproducible from the repository"
+      ]
+    },
+    {
+      "id": "plan-no-writing-sample",
+      "skill": "ielts-band8-study-plan",
+      "mode": "Plan",
+      "priority": "critical",
+      "request": "I am around Band 6.5 and want Band 8. Make me a personalised eight-week plan. I have not provided any essays or error history.",
+      "expected": [
+        "States that a personalised diagnosis needs writing evidence",
+        "Provides a diagnostic writing task or a provisional first phase",
+        "Avoids pretending to know the learner's dominant error type"
+      ],
+      "forbidden": [
+        "Invents a personal error profile",
+        "Promises Band 8 after eight weeks"
+      ]
+    },
+    {
+      "id": "plan-limited-hours-real-goal",
+      "skill": "ielts-band8-study-plan",
+      "mode": "Plan",
+      "priority": "standard",
+      "request": "My university requires Writing 7.0. I currently score about 6.5 and can study four hours a week. Should I still follow the Band 8 plan?",
+      "expected": [
+        "Aligns the plan with the actual 7.0 requirement",
+        "Adapts workload to four hours rather than enforcing a fixed weekly total",
+        "Recommends collecting baseline evidence and reviewing progress"
+      ],
+      "forbidden": [
+        "Insists that Band 8 remains the correct target",
+        "Claims that fewer than a fixed number of weekly hours makes improvement meaningless"
+      ]
+    }
+  ]
+}

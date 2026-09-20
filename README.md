@@ -83,6 +83,14 @@ skills/
 
 Each `SKILL.md` contains the workflow and routes the agent to the relevant reference file. Detailed material is loaded only when the task needs it.
 
+## Behaviour evaluations
+
+The [`evals/`](evals/) directory contains 20 realistic cases for checking grading boundaries, vocabulary decisions and study-plan behaviour. Run the structural check with:
+
+```bash
+python3 evals/validate_cases.py
+```
+
 ## Important notes
 
 - This is unofficial study material. It is not affiliated with or endorsed by IELTS, Cambridge University Press & Assessment, the British Council, or IDP.
