@@ -1,6 +1,6 @@
 # IELTS Writing Skills
 
-[Agent Skills](https://agentskills.io) for IELTS writing preparation — a distilled, corpus-verified knowledge base packaged as four installable skills for Claude Code, Codex, Cursor, OpenCode and [70+ other agents](https://skills.sh).
+[Agent Skills](https://agentskills.io) for IELTS writing preparation — a distilled, corpus-informed knowledge base packaged as four installable skills for Claude Code, Codex, Cursor, OpenCode and [70+ other agents](https://skills.sh).
 
 > 雅思写作备考知识库,封装为 4 个可直接安装的 Agent Skills:Task 1 图表作文、Task 2 议论文、Band 8 词汇系统、备考方案。
 
@@ -10,7 +10,7 @@
 |---|---|
 | [`ielts-writing-task1`](skills/ielts-writing-task1/) | Coaches IELTS Academic Task 1 (line/bar/pie/table/mixed charts, process diagrams, maps) and General Training letters: teaching, model reports, band scoring, timed drills. |
 | [`ielts-writing-task2`](skills/ielts-writing-task2/) | Coaches IELTS Task 2 essays across all five prompt types: argument generation, sentence skeletons, model essays, band scoring, prompt-deconstruction drills with a 359-prompt bank. |
-| [`ielts-band8-vocabulary`](skills/ielts-band8-vocabulary/) | A corpus-verified collocation system (193 core chunks + 252 verb patterns) for band-8 lexical decisions: essay audits, word upgrades, high-risk "advanced word" blacklist, register guidance. |
+| [`ielts-band8-vocabulary`](skills/ielts-band8-vocabulary/) | A corpus-informed collocation system (193 core chunks + 252 verb patterns) for lexical decisions: essay audits, word upgrades, risky vocabulary choices and register guidance. |
 | [`ielts-band8-study-plan`](skills/ielts-band8-study-plan/) | A diagnostic-driven 8-week plan toward band 8 writing: error-zeroing loop, what-to-memorise framework, and transferring essay arguments to speaking. |
 
 ## Install
@@ -44,9 +44,9 @@ Once installed, just talk to your agent:
 ## How the knowledge is organized
 
 - **Structure first**: fixed skeletons with synonym slots and content slots — structure stays, content adapts to the prompt. Memorised whole essays are a trap; ten functional slots × 2–3 variants are not.
-- **Collocations over rare words**: verified against a ~175k-word corpus of real model essays, 68 classic "advanced verb blocks" scored **zero hits**, while `improve`, `lead to`, `enhance` carry band-9 arguments. Precision beats difficulty.
-- **Evidence tiers**: every vocabulary entry is tagged — corpus-verified with frequency (A/B), narrow-register (C), or dictionary-grade with zero corpus hits (📕) — so you know what real high-scoring writers actually use.
-- **Diagnostics before plans**: the study-plan skill converts band descriptors into countable targets (e.g. band 8 ≈ 12–13 error-free sentences out of 14) and runs an error-zeroing loop.
+- **Collocations over rare words**: observations from an internal ~175k-word essay corpus show that common expressions such as `improve` and `lead to` appear more often than many phrases marketed as advanced. Zero hits describe this corpus, not the acceptability of an expression.
+- **Evidence tiers**: vocabulary entries distinguish internal corpus frequency, register guidance and dictionary-sourced items. The repository does not present these frequencies as official IELTS statistics.
+- **Diagnostics before plans**: the study-plan skill records error patterns, whether they are systematic and whether they affect understanding. It does not convert an error count directly into a Band score.
 
 ## Repository layout
 

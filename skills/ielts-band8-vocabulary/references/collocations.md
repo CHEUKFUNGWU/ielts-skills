@@ -15,12 +15,12 @@
 
 | 标记 | 含义 |
 |---|---|
-| **A** | 范文实证高频（≥5 次），写作与口语都能用 → **必背** |
-| **B** | 范文实证（2–4 次），或语域偏正式 → 写作必背，口语选背 |
+| **A** | 内部语料命中 ≥10 次，且标注 `[通用]` → 优先掌握 |
+| **B** | 内部语料命中 2–9 次，或语域偏正式 → 按用途选学 |
 | **C** | 学术语域较窄，用对了加分、用错了显做作 → 认得出，慎主动用 |
 | **📕 范文语料 0 次** | **不在这批范文的用词范围内**（但仍是标准英语）。属于词典级词汇，不是这批范文的实际用法 |
 
-**2. 计数口径（可复现）**
+**2. 计数口径（当前仓库不可独立复现）**
 ```
 语料：460 余篇 Task 2 考生范文正文（约 15.6 万词）
       40 篇 native band 9 范文段落（约 0.7 万词）
@@ -29,7 +29,7 @@
 方法：合并连字符断行 → 归一空白 → 大小写不敏感 + 词边界匹配
       已剔除题干原文、营销文案、目录等非范文内容
 ```
-**重要提醒**："0 次"只表示**不在这批范文语料里**，不表示英语里不存在。`curb`、`safeguard`、`strike a balance` 都是完全正确的英语——只是**这批范文的作者没用**。它们的价值在于告诉你：**8 分范文的语言比常见的"高级搭配表"朴实得多。**
+**重要提醒**："0 次"只表示不在这批内部语料里，不表示英语里不存在。当前仓库未包含原始语料和生成脚本，具体边界见 `methodology.md`。
 
 **3. 每个条目还给了语料里的真实例句**（优先引用 native band 9 例句）
 
@@ -56,7 +56,7 @@
   - [4. 名词 + 介词](#4-名词--介词precision-的主战场)
   - [5. 评价与对冲短语](#5-评价与对冲短语有分寸的判断)
   - [6. 自然衔接块（band 9 真正在用的）](#6-自然衔接块band-9-真正在用的)
-  - [7. 反向清单：这些块别再用（实测）](#7-反向清单这些块别再用实测)
+  - [7. 风险清单：这些块要结合语境判断](#7-风险清单这些块要结合语境判断)
 - [D. 反向清单：这些"高级词"用了会掉分](#d-反向清单这些高级词用了会掉分)
 - [E. 怎么用这份合集](#e-怎么用这份合集)
 - [F. 搭配这件事的边界](#f-搭配这件事的边界)
@@ -76,7 +76,7 @@
 从这行字里能读出三件事，全部反直觉：
 
 1. **Band 8 允许搭配错误**（*occasional inaccuracies in word choice and collocation*）。它**不要求零错误**。
-2. **Band 8 不要求难词**。它要求的是 *precise meanings* —— **用对的词，不是用难的词**。
+2. **Band 8 不以难词数量评分**。描述符提到在合适情况下熟练使用少见或习语表达，核心仍是准确、灵活并符合语境。
 3. Band 7 已经提到了 *collocation*，但只要求 *some awareness*；Band 8 要求你能**靠搭配把意思说准**。
 
 **结论**：从 7 到 8 的词汇升级，不是"背更难的词"，而是**把已经认识的词配对**。下面这一节就是这个"配对"的实证。
@@ -551,9 +551,11 @@ arouse / increase awareness         → raise awareness（3 次）
 - **In summary,** — 总之（⚠️ native band 9 范文用 19 次、In conclusion 0 次） — 📕 范文语料 0 次（词典级词汇，非范文用法） `B`
 - **In conclusion,** — 总之（⚠️ native band 9 范文用 36 次、In summary 0 次；两种说法不要混用） — 📕 范文语料 0 次（词典级词汇，非范文用法） `B`
 
-### 7. 反向清单：这些块别再用（实测）
+### 7. 风险清单：这些块要结合语境判断
 
-- **Moreover** — band 9 语料中 0 次；考生用了 137 次 → 别用 — 📕 范文语料 0 次（词典级词汇，非范文用法） `D`
+以下表达不是禁词。内部语料中的频次差异只用于提醒机械重复、语域和句法风险，不能据此自动扣分。
+
+- **Moreover** — 某组标为 band 9 的内部语料中 0 次，学习者语料中较多；避免机械重复 — 📕 内部目标语料 0 次 `D`
   > Moreover, International music has recently been used for commercial purposes to gain a reputation for entertainment companies or celebrities, it has no value at all in the long run.
 - **Furthermore** — band 9 密度 0.04/100 词，考生 2 倍以上 → 慎用 — 📕 范文语料 0 次（词典级词汇，非范文用法） `D`
   > Furthermore, phones can be distracting and unsafe if people are focusing on their phone rather than their surroundings.
@@ -567,7 +569,7 @@ arouse / increase awareness         → raise awareness（3 次）
   > Online sale becomes more common these days, hence, improving Internet access helps to boost the domestic as well as international trade.
 - **Firstly / Secondly / Lastly** — 考生用滥；band 9 用 First / Finally / 直接叙述 — 📕 范文语料 0 次（词典级词汇，非范文用法） `D`
 - **Nowadays（句首）** — 指南列为填充词；改用 In recent years — 📕 范文语料 0 次（词典级词汇，非范文用法） `D`
-- **kids** — 指南明确禁用；改用 children — 📕 范文语料 0 次（词典级词汇，非范文用法） `D`
+- **kids** — 语域较口语；正式论述通常用 children，但引用或特定语境中可以使用 — 📕 内部目标语料 0 次 `D`
   > Thus, my father helps them to bring their kids home every day.
 - **learn knowledge** — 搭配错误；改用 acquire / gain knowledge — **1** 次 `D`
   > Additionally, since another useful source is the Internet, parents could learn knowledge from websites or online books.
@@ -581,13 +583,13 @@ arouse / increase awareness         → raise awareness（3 次）
 
 ---
 
-## D. 反向清单：这些"高级词"用了会掉分
+## D. 反向清单：这些少见词需要谨慎
 
-> **这一节的价值不比前面的搭配合集低。** Band 8 允许 *occasional inaccuracies*，但**用错一个词的印象扣分，抵得上用对三个词**。下面全部来自词汇书自己的词条标注，不是本合集的判断。
+> Band 8 允许偶发不准确，但少见词的含义、搭配和语域更难控制。下表用于提醒风险，不存在“一个错误抵消三个正确用法”的官方算法。
 
 ### D.1 词汇书里明确标为"高风险"的 40 个词
 
-主流词汇书收录了约 460 个学术词条（等级很高），但其中约 40 个**在雅思作文里用出来是风险而不是加分**。风险判定与更安全的替代：
+某词汇材料收录了约 460 个词条，其中一部分文学性强、领域过窄或容易混淆。它们不是禁词；只有在论证语境真正需要时才考虑使用。
 
 | 危险词 | 为什么诱人 | 风险 | 更安全的替代 |
 |---|---|---|---|
@@ -644,7 +646,7 @@ arouse / increase awareness         → raise awareness（3 次）
 见过   → 用它，并确认搭配（前面 A1 与 B 节的搭配都经过语料核验）
 ```
 
-Backing this up: 这批范文语料里，**真正支撑起论证的动词是 `improve`（167 次）、`lead to`（88 次）、`enhance`（74 次）、`contribute to`（59 次）、`result in`（40 次）** —— 全是常见词。**没有一个生僻词出现在高频榜上。**
+内部语料中，`improve`、`lead to`、`enhance`、`contribute to`、`result in` 等常见动词较频繁。这个结果支持“先掌握常用搭配”的教学顺序，但不能证明少见词不适合 IELTS。
 
 ---
 
@@ -679,8 +681,8 @@ Backing this up: 这批范文语料里，**真正支撑起论证的动词是 `im
 
 | 优先级 | 判据 | 动作 |
 |---|---|---|
-| **A 级** | 语料命中 ≥10，且标注 `[通用]` | **必背**。这是你的基本盘 |
-| **B 级** | 语料命中 2–9，或标注 `[正式]` | **写作必背，口语选背** |
+| **A 级** | 语料命中 ≥10，且标注 `[通用]` | 优先掌握，并练习换语境使用 |
+| **B 级** | 语料命中 2–9，或标注 `[正式]` | 按写作或口语需要选学 |
 | **C 级** | 命中 0–1，只有 `[词典]`（词汇书）支持 | **认得出即可**，写作里偶尔用一次 |
 
 **总量对账**：A 级大约占三到四成。**先把 A 级吃透（约 150–200 条），再碰 B 级。** 一次把 600 条全背，结果是一条都用不出来。
@@ -704,9 +706,9 @@ Backing this up: 这批范文语料里，**真正支撑起论证的动词是 `im
 | 材料 | 定位 | 关系 |
 |---|---|---|
 | **本合集** | **词块仓库**：单词级别的搭配与精确用词 | 解决 Lexical Resource 的 *precision* |
-| `task1/patterns.md`、`task2/patterns.md` | **句式骨架**：句子级别的框架 | 解决 Grammatical Range 与 Coherence |
-| `task2/vocabulary.md` | **话题词汇与论点**：内容级别的储备 | 解决 Task Response |
-| `PLAN_FOR_BAND_8.md` | **执行方案**：错误率清零循环 | 解决 GRA 的 *majority error-free* |
+| `../../ielts-writing-task1/references/patterns.md`、`../../ielts-writing-task2/references/patterns.md` | **句式骨架**：句子级别的框架 | 辅助练习 Grammatical Range 与 Coherence |
+| `../../ielts-writing-task2/references/vocabulary.md` | **话题词汇与论点**：内容级别的储备 | 辅助发展 Task Response |
+| `../../ielts-band8-study-plan/references/band8-plan.md` | **执行方案**：准确度诊断与改进循环 | 辅助分析 GRA 中的准确性问题 |
 
 **一句话**：本合集让**每个词都用准**；句式和论点是另外两层。三层齐了才是 8.0，只补一层不够。
 
@@ -723,7 +725,7 @@ Backing this up: 这批范文语料里，**真正支撑起论证的动词是 `im
 
 ② 不要用没把握的搭配
    Band 8 允许 occasional inaccuracies，但"允许"不等于"鼓励"
-   一个用错的搭配，抵掉三个用对的搭配的印象分
+   官方没有“一个错误抵消三个正确用法”的算法；重点看错误是否系统性并影响表达
 
 ③ 不要把 [正式] 的块说进嘴里
    口语里说 the implementation of this policy is conducive to... 会立刻暴露"在背材料"
@@ -731,7 +733,7 @@ Backing this up: 这批范文语料里，**真正支撑起论证的动词是 `im
 
 **一个检查动作**：写完（或说完）之后问自己一句——
 **"这句话里，哪个词是我专门选过的？"**
-如果答不上来，说明整句都是"默认词"（good / bad / important / problem / thing），词汇分就在 6–7 之间。如果每段能指出两三个"我特意选了 X 而不是 Y"的地方，词汇分就进入了 8 的射程。
+如果答不上来，检查 `good / bad / important / problem / thing` 等词是否过于笼统。能解释自己的选词理由有助于提高精确性，但不能据此直接换算词汇分。
 
 ---
 

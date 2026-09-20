@@ -1,7 +1,7 @@
 # IELTS Task 1 语言系统 Cheat Sheet
 ### 趋势 · 程度 · 比较 · 流程 · 地图 ｜ 全部为"可填槽"形式
 
-> **这个文件只讲 Task 1 的描述性语言。** Task 2 的话题词汇与论证词汇在 `../task2/vocabulary.md`。
+> **这个文件只讲 Task 1 的描述性语言。** Task 2 的话题词汇与论证词汇在 `../../ielts-writing-task2/references/vocabulary.md`。
 >
 > **为什么 Task 1 需要单独一份词汇表**：Task 1 考的不是"词汇量"，而是**同一件事换着说法说**。
 > 同一个"上升"你要在一篇里写出 3 种以上不同的表达（`rose` / `climbed` / `saw an increase`），
@@ -372,4 +372,3 @@ This is because / due to → （Task 1 不解释原因，删掉）
 英式（推荐）：programme · centre · metre · labour · analyse · organisation · travelled
 美式：        program · center · meter · labor · analyze · organization · traveled
 ```
-

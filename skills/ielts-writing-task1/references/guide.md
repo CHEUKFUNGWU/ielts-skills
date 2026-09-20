@@ -8,7 +8,7 @@
 > - `vocabulary.md` —— Task 1 语言系统（趋势 / 程度 / 比较 / 流程 / 地图）+ 用词雷区
 > - `worked-examples.md` —— 从骨架到成品段落的组装演示
 >
-> **符号约定**：`{ }` = 可填内容点；`A / B / C` = 可直接同义替换的固定块；🅐🅑🅒 = A 保 6.5 / B 冲 7.5 / C 冲 8+。
+> **符号约定**：`{ }` = 可填内容点；`A / B / C` = 可选表达。字母只表示语言复杂度，不保证对应分数。
 
 ---
 
@@ -43,11 +43,7 @@
 | 只多写 10–20 词 | 「少写派」教材的主张 | 文章越长，语法与词汇出错概率越高；写太多会挤占 Task 1 时间 |
 | 稳定超出 20–30% | 460 余篇考生范文的实测分布（223–350 词，中位数 **297**）| 多写才能把理由展开到"机制 + 例证 + 后果"三层，Task Response 更完整 |
 
-**怎么选**：
-- 目标 **6.5–7.0** → 取保守值，**265–290 词**，把力气放在准确率上；
-- 目标 **7.5+** 且写作速度快 → 可到 **290–330 词**，多出的篇幅全部用于**深化论证**（不是重复、不是堆例子）；
-- 低于 250 词 → Task Response 一定受限，无论语言多好；
-- 超过 ~350 词 → 时间与错误率风险明显上升，通常不值得。
+**怎么选**：先达到官方最低字数，再根据写作速度、内容需要和校对时间决定篇幅。上面的区间只是时间管理观察，不是分数规则。篇幅不足可能无法充分展示任务完成和语言能力；篇幅过长则可能增加跑题和来不及检查的风险。
 
 **Task 1 的字数上限（建议不一致）**
 
@@ -58,7 +54,7 @@
 | 前考官范文实测 | 154–216 词 |
 | 官方 | **没有上限** —— 上述都是时间管理建议，不是评分规则 |
 
-**结论**：Task 1 稳妥落点 **165–190 词**。写得多不会直接扣分，但会挤占 Task 2（占 2/3 分值）的时间，而且容易开始罗列细节而不是筛选特征。
+**结论**：Task 1 至少写 150 词。`165–190` 可以作为部分学习者的时间管理参考，但不是官方目标区间。写得多不会直接扣分，却可能挤占 Task 2 的时间。
 
 ### 1.2 四项评分标准（各占 25%）
 
@@ -76,15 +72,15 @@
 | Task | 完成任务但细节可能不相关/不准确；Task 1 有 overview 但信息筛选一般 | 清楚呈现 overview（主要趋势/差异/阶段）；关键特征被**突出**呈现，只是展开不够充分 |
 | 连贯 | 有整体推进，但句内/句间衔接可能出错或**机械** | 逻辑清晰、全程递进；连接手段使用得当（允许少量欠用/过度使用）|
 | 词汇 | 词汇量够用，尝试非常用词但**常出错** | 词汇量足以体现一定灵活与精确；使用 less common 词且有搭配意识；偶有选词/拼写错误 |
-| 语法 | 简单句与复杂句混用，语法错误"很少影响理解" | 使用多种复杂结构，**多数句子无错**；语法与标点控制良好 |
+| 语法 | 简单句与复杂句混用，错误通常不影响理解 | 使用多种复杂结构并有一定灵活性与准确性；**无错句较常见**，少量错误不影响交流 |
 
 **结论**：从 6 到 7 的杠杆点是——Task 1 的 overview 与特征筛选、Task 2 的立场一致性、复杂句的**准确率**、以及搭配（collocation）而不是生僻词。
 
-### 1.3 阅卷人最在意的三句话
+### 1.3 三条实用写作原则
 
-1. *"The examiner doesn't care about what you say, they care about **how well** you use English."* —— 观点是否"正确"不重要，语言质量重要。
-2. *"Treat each sentence like GOLD: there should be no useless sentences in your essay."* —— 每一句都要有功能。
-3. *"Efficient writing expresses an idea without using too many words."* —— 效率高于长度。
+1. 观点不需要迎合考官，但内容必须相关、准确并符合任务要求。
+2. 每句话都应帮助概括、说明或比较关键信息。
+3. 用足够的文字完成任务，不用长度代替内容选择。
 
 ### 1.4 两条常见的错误路线
 
@@ -95,7 +91,7 @@
 
 ## 2. Task 1 通用作战流程（20 分钟）
 
-### 2.1 四段式骨架（A 类所有图形通用）
+### 2.1 四段式骨架（推荐默认值）
 
 ```
 第 1 段  Introduction  —— 1 句（改写题目）
@@ -104,7 +100,7 @@
 第 4 段  Body 2        —— 3–4 句（第二组特征 + 数据支撑 + 比较）
 ```
 
-推荐的四段节奏：**每段约 5 分钟**，20 分钟停笔。开头 50 词左右，主体 100+ 词。
+这套四段式适合多数题目，但不是评分要求。overview 可以放在引言之后或结尾，主体段数量也可按信息分组调整。
 
 ### 2.2 五步流程
 
@@ -116,18 +112,18 @@
 | ④ 找两个 main points | 2 分钟 | 全图最上层的两条结论（见 2.3） |
 | ⑤ 分组 + 写 | 15 分钟 | 按 main points 分组（例如：数值最高的 3 项放一段，最低的放另一段；上升的放一段，下降的放另一段）|
 
-**"two trends for three points"** 原则：不要罗列每一个变化，只抓 2–3 条趋势 / 一组对比。建议**全文只写 6–7 个数字**。
+不要罗列每一个变化。先选择主要趋势或对比，再用足够的数据支持；数字数量由图表复杂度决定。
 
-### 2.3 Overview 是 Task 1 的生死线
+### 2.3 Overview 是 Task 1 的关键
 
-- 没有 overview → Task Achievement **不会超过 5.0**（即使语法词汇完美）。
-- 想拿 7.0+ → overview 必须包含**总体趋势 + 比较/最高级**。
-- 写法：**两句**，开头用信号词明确告诉考官"这是概述段"：
+- 官方 Band 6 描述符要求尝试相关 overview，Band 7 要求清晰 overview。缺少 overview 会明显限制 Task Achievement。
+- overview 应概括适合题型的主要趋势、差异、阶段或变化，不是每道题都必须使用比较级或最高级。
+- 常见写法是 1–2 句，可用信号词帮助读者识别：
   `Overall, / It is clear that / It is noticeable that / In general, / Broadly speaking,`
 - **不放具体数字**（数字留给主体段）。
 - 有两条曲线时：**不写单个峰值**，写"整段时期里哪条线一直最高/最低"。
 - 两个图表 → 各写一句 overview，或找两条共同特征。
-- 流程图 → 写**总阶段数**与起点/终点。
+- 流程图 → 概括起点、终点和主要阶段；只有在阶段数清楚且有帮助时才写总数。
 - 地图 → 写**最大变化**与变化数量/性质。
 
 **Overview 万能句（可直接填空）**
@@ -187,7 +183,7 @@ It is noticeable that, although {反向细节}, the overall trend was towards {�
 | 峰谷 | peak at, reach a peak/high of, hit a low, bottom out at | a peak of, a high of, a low of | — | — |
 | 定位 | stand at, start/begin at, end/finish at, account for | — | — | — |
 
-**两条互斥的语法路径**（必须都出现，才能拿语法分）：
+**可选的语法路径**（按数据关系选用，不必全部出现）：
 
 ```
 路径 A（there be + 形容词 + 名词 + in）：There was a significant increase in {X}.
@@ -268,7 +264,7 @@ There was a striking contrast between {A} and {B} in terms of {维度} ({数据}
 
 **三原则**：
 1. **一般现在时 + 被动语态**为主；
-2. 必须写**总阶段数 + 起点 + 终点**（overview）；
+2. overview 概括起点、终点和主要阶段；阶段数清楚时可以写入；
 3. 用**顺序连接词**串联，且要变换：`first / to begin with / at the first stage / next / after that / subsequently / once {X} has been {done} / at this point / finally / the cycle then repeats itself`。
 
 **被动语态模板**
@@ -319,7 +315,7 @@ The {区域} to the south, previously {旧用途}, was extended and converted in
 | Semi-formal | 认识但不熟（房东、同事、邻居）| `Dear Mr/Mrs {姓},` | `Best regards,` / `Yours sincerely,` | 礼貌但可略自然 |
 | Informal | 朋友、家人 | `Dear {名},` / `Hi {名},` | `Best wishes,` / `Take care,` / `Lots of love,` | 可用缩写、习语、问句 |
 
-**铁律**：开头称呼决定全篇语域，随后**不能中途切换**。正式信中出现 `I wanna` / `How's it going?` = 语域崩坏，直接压 Communicative Achievement。
+称呼、写信目的和收信人关系共同决定语域。正式信中突然出现 `I wanna` 或 `How's it going?` 会造成语域不一致，并可能影响 Task Achievement 和 Lexical Resource。IELTS Writing 没有名为 `Communicative Achievement` 的评分项。
 
 ### 4.2 四段式书信骨架
 
@@ -367,7 +363,7 @@ I am writing in response to your advertisement in {来源}. （应征）
 
 > Task 1 的语法得分点和 Task 2 完全不同。Task 1 不需要对冲、不需要让步、不需要名词化论证；Task 1 要的是**时态准确 + 语态恰当 + 句式变化**。
 
-### 5.1 四条必须同时出现的句式路径（只写一条 = 语法分上不去）
+### 5.1 四种可选句式路径
 
 ```
 路径 A  there be + 形容词 + 名词 + in ：There was a significant increase in {X}.
@@ -377,7 +373,7 @@ I am writing in response to your advertisement in {来源}. （应征）
 ```
 典型病句：只写 "sales increased… sales fluctuated… sales plummeted" 就是**过去时三连**——准确但没有变化，Grammatical Range 拿不到分。
 
-**自查**：一篇文章里 A、B、C 至少各出现一次。
+**自查**：是否使用了适合数据关系的多种结构？不要为了凑类型而强行加入某个句式。
 
 ### 5.2 时态决策表（Task 1 第一大失分点）
 
@@ -476,15 +472,15 @@ I am writing in response to your advertisement in {来源}. （应征）
 
 ### 7.2 交卷前 7 问（Task 1 专用）
 
-1. 有没有**独立的两句 overview**？里面有没有**比较或最高级**？（没有 → Task Achievement ≤5）
+1. 有没有清晰 overview？它是否概括了最重要的趋势、差异或阶段？不要求固定两句、独立成段或必须使用最高级。
 2. overview 里是不是**没有出现具体数字**？（数字应留给主体段）
-3. 是全篇罗列数字，还是**只写了 6–7 个关键数字**？
+3. 数据是否经过筛选，并足以支持 overview 和主体段的主要比较？
 4. 主体段里有没有**比较**（最高/最低、倍数、交叉、对照），而不只是逐项描述？
 5. 时态对不对？（全过去→过去时；含未来→is expected to / will have + p.p.；流程图→现在时被动）
 6. 有没有犯搭配错误：`an increase in` / `a rise of 10%` / `fell to` vs `fell by`？`plummet` 后面有没有多加副词？
 7. 有没有在 Task 1 里写**原因、观点或评价**？（Task 1 只描述）
 8. 有没有抄错数字、单位或年份？大小写是否规范？
-9. 词数是否 ≥150（目标 165–190）？
+9. 词数是否 ≥150？是否为检查 Task 2 留出了足够时间？
 
 ---
 

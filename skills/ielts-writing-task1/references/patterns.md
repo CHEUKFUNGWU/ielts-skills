@@ -1,7 +1,7 @@
 # IELTS Task 1 句式 Cheat Sheet（填空模板版）
 ### Academic 图表（线图 / 柱图 / 饼图 / 表格 / 混合图 / 流程 / 地图）+ GT 书信
 
-> **这个文件只讲 Task 1 句式。** Task 2 句式在 `../task2/patterns.md`。
+> **这个文件只讲 Task 1 句式。** Task 2 句式在 `../../ielts-writing-task2/references/patterns.md`。
 >
 > **格式说明（每个句式都是三层结构）**
 > ```
@@ -13,7 +13,7 @@
 >    被测物 = the number of {人} who {动词} ｜ the proportion of {人} ｜ spending on {事物}
 > ```
 > **符号**：`{ }` = 你要填的内容点；`A / B / C` = 可互相替换的固定块；🅐 = 6.5 保底 ｜ 🅑 = 7.5 主力 ｜ 🅒 = 8+ 加分。
-> **铁律**：骨架必须一字不差背熟，替换只在槽内进行。
+> **用法**：先理解句子的功能和语义限制，再替换内容。不要逐字死背，也不要把骨架硬套到不匹配的数据上。
 
 ---
 
@@ -129,7 +129,7 @@ The {图表名词 1} {动词} {信息内容 1}, while the {图表名词 2} {动�
 
 ## T1-2 Overview 概述骨架
 
-> Overview 决定 Task Achievement 上限：**没有它就 ≤5.0**；有趋势 + 比较才 7.0+。**不放具体数字**。
+> 清晰的 overview 是 Band 7 及以上的重要条件。通常概括主要趋势、差异或阶段，不必固定写两句，也不要求每道题都使用最高级。一般把具体数据留给主体段。
 
 ### 骨架 1 🅐 —— 通用最高级型（任何图形都能用）
 
@@ -726,7 +726,7 @@ Drop me a line when you get a chance.                        （informal）
 Best wishes / Take care / Lots of love                       （informal 落款）
 Yours sincerely / Yours faithfully / Kind regards            （formal 落款）
 ```
-**铁律**：① 三个 bullet points 必须逐条覆盖，每条都要有细节；② 语域全篇一致；③ 语气礼貌且**体谅对方**；④ 150–180 词即可。
+**检查重点**：① 三个 bullet points 都要覆盖并适当展开；② 语域应与收信人和目的匹配并保持稳定；③ 语气符合交际目的；④ 官方最低要求为 150 词，不设教学性硬上限。
 
 ---
 

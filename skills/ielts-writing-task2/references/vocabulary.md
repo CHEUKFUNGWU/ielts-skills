@@ -1,7 +1,7 @@
 # IELTS Task 2 话题词汇 Cheat Sheet
 ### 搭配 + Chunks + 论点句 ｜ 按话题 + 按功能双重索引
 
-> **这个文件只讲 Task 2 的词汇与论点。** Task 1（图表 / 书信）的描述性语言在 `../task1/vocabulary.md`。
+> **这个文件只讲 Task 2 的词汇与论点。** Task 1（图表 / 书信）的描述性语言在 `../../ielts-writing-task1/references/vocabulary.md`。
 >
 > **为什么 Task 2 的词汇表按"话题"组织**：Task 1 只要换着说法描述同一件事，Task 2 则要求你**对一个话题有话说**。
 > 所以这里每一个词都挂在**能直接进句子的搭配**上，并且每个话题都给"论点句模板"，让你换掉 `{ }` 就能用：
@@ -14,9 +14,9 @@
 > **三种查法**
 > 1. **按话题查**（第 2 部分）—— 拿到题目先定位话题，直接取搭配 + 动词块 + 论点句模板 + 整段范例。
 > 2. **按功能查**（第 3、4 部分）—— 想说"导致""减轻""证明""不可否认"时，去功能词族与万能 chunks 里挑。
-> 3. **按语料查**（文末附录）—— 想知道"高分范文真的在用哪些词"时，看语料实证搭配库。
+> 3. **按语料查**（文末附录）—— 想知道内部语料中出现过哪些词时，看语料观察库。
 >
-> **符号**：`{ }` = 可替换内容；`🅐/🅑/🅒` = 6.5 保底 / 7.5 主力 / 8+ 加分（越往上越要注意搭配，用错反而扣分）。
+> **符号**：`{ }` = 可替换内容；`🅐/🅑/🅒` = 从较简单到较复杂的表达。符号不保证对应分数。
 
 ---
 
@@ -38,9 +38,9 @@
 >
 > | 等级 | 含义 | 在文件中的位置 |
 > |---|---|---|
-> | **① 语料实证** | 在 `` 的 460 余篇 Task 2 范文与 40 篇 band 9 范文中**实际出现过**，附出现频次；每条都做过语法核对 | **附二「语料实证搭配库」全部内容**；第 3 部分的功能词族多数 |
+> | **① 内部语料观察** | 在内部收集的 Task 2 文本中出现过并附有计数；仓库当前没有原始语料和复现脚本，详见 `../../ielts-band8-vocabulary/references/methodology.md` | **附二「语料观察库」全部内容**；第 3 部分的功能词族多数 |
 > | **② 系统词表** | 来自一套按 12 个话题组织、另含约 460 条 A–Z 学术词表的系统词汇教材：话题词块、释义与例句 | 第 3 部分的功能词族；第 2 部分中该词汇书覆盖的话题（People / Health / Education / Advertising / Travel / Animals / Technology / Fashion / City life / Environment / Media / Social & leisure）|
-> | **③ 通用学术搭配** | 标准英语的高频学术搭配，**但在这两套范文语料中出现 0–2 次**（见下方清单）。它们不是错，只是**这批范文作者没怎么用**；在雅思语境中仍然正确、仍然安全 | 第 2 部分其余内容 |
+> | **③ 通用学术搭配** | 在内部语料中出现 0–2 次的候选表达。零命中不代表错误；使用前仍要检查语义、搭配和语域 | 第 2 部分其余内容 |
 >
 > **等级 ③ 的完整清单（语料 0 命中，最需要你知道的诚实交代）**
 > ```
@@ -49,7 +49,7 @@
 >             address the root cause of
 > 1–2 hits:   impose a ban on · juvenile delinquency · alleviate poverty
 > ```
-> 这些词在**官方题库与考官范文中都很常见**（例如 `compulsory education` 就出现在题库题干里），所以它们**不是"不该用"**——只是说明：这批范文的作者习惯用别的说法。若你要"完全贴合范文语料的口吻"，可用语料里的实际替代：
+> 这些表达并不因零命中而变成错误。下面的替代表只展示内部语料中出现过的说法，不表示右边一定比左边更自然：
 > ```
 > compulsory education        → a compulsory part of high school programmes
 > urban sprawl                → move from centre areas to suburbs / rural depopulation
@@ -60,30 +60,30 @@
 > address the root cause of   → tackle the problem of X / root causes（语料用的形式）
 > ```
 >
-> **第一条铁律**：`⚠ 高频 ≠ 高分`。以下表达在语料中确实高频，但正因被用滥，band 9 指南明确要求删除：`Nowadays`（句首）、`Some people believe`（句首）、`As we all know`、`last but not least`。
+> **频次边界**：高频不等于高分。`Nowadays`、`Some people believe`、`As we all know`、`last but not least` 容易变成空泛或机械表达，但要根据具体句子判断，不设自动禁用清单。
 >
-> **第二条铁律**：band 9 范文作者给出了一份明确的"别用"清单，已收入第 5 部分——`enhance`（改 `improve`）、`efficiency`（改 `effectiveness`）、用 `popular` 描述趋势（改 `common`）、`kids`（改 `children`）、把 `punishment` 用在儿童身上（改 `discipline`）。
+> **语境检查**：`enhance`、`efficiency`、`popular`、`kids` 和 `punishment` 都可能正确。第 5 部分列出的是常见误用风险，不是单词黑名单。
 >
-> **关于"编数据"**：这批范文语料里**只有一处真实统计数据**（河内 2017 年人均居住面积 7 平方米，注明来源为联合国人口基金）。高分范文的做法是**用具体案例和机制推理代替数字**，不是编造百分比。本文件所有举例模板都遵循这一点（见附二各话题的 "Evidence phrasings"）。
+> **关于"编数据"**：不要编造百分比或机构来源。Task 2 可以使用相关例子，包括个人经验；无法核实的数据通常不如清楚的机制解释可靠。
 >
-> **关于语域混用**：语料中的考生范文主要是 band 7–8 的学习者习作（开头公式化、举例偏本地、偶有语法错误），band 9 范文是母语者文字（几乎没有 `Some people think` 类开头、举例全球化的具体案例）。**不要把两者的口吻混成一种**——本文件已剔除学习者习作中的病句。
+> **关于语料混用**：内部语料包含学习者习作和标为 Band 9 的文本。学习者文本适合观察常见用法和错误，不能直接视为目标答案。分数标签和作者身份目前无法在仓库内独立复核。
 
 ---
 
-## 1. 平民词 → 高分词速换表（急救用）
+## 1. 笼统表达 → 更具体的候选表达
 
-> 考场最后 3 分钟用来自查：如果通篇都是左列的词，至少把出现次数最多的几个换掉。
+> 先检查左列用词是否真的妨碍精确表达。替换必须保留原意并符合搭配，不要为了显得高级而换词。
 
 | 平民词 / 中式表达 | 高分替换 | 用法提示 |
 |---|---|---|
-| a lot of / lots of | a great deal of（不可数）｜ a considerable number of（可数）｜ a substantial amount of | 不用 `a lot of` |
+| a lot of / lots of | a great deal of（不可数）｜ a considerable number of（可数）｜ a substantial amount of | 正式写作通常可具体化，但不是语法错误 |
 | many people think | it is widely believed that ｜ many people would argue that | 避免 `people think` |
 | good for | beneficial to ｜ conducive to ｜ advantageous to | `conducive to` 后接名词/动名词 |
 | bad for | detrimental to ｜ harmful to ｜ damaging to | 三个都接 to |
-| get (a skill) | acquire / obtain / gain / develop | `acquire skills` 很地道 |
+| get (a skill) | acquire / gain / develop | 按宾语选择；`develop skills` 与 `acquire skills` 含义略有不同 |
 | get rid of | eliminate / eradicate / remove / do away with | `eradicate` 用于问题/疾病 |
 | make better | improve / enhance / upgrade / ameliorate | `enhance` 偏"提升价值"，别乱用 |
-| make worse | exacerbate / aggravate / worsen / compound | `exacerbate` 8 分词，搭配 `exacerbate the problem` |
+| make worse | exacerbate / aggravate / worsen / compound | `exacerbate` 不是“8 分词”；只在搭配和语气合适时使用 |
 | stop / reduce | curb / curtail / restrict / mitigate / alleviate | `curb emissions` / `alleviate poverty` |
 | help (v.) | assist / aid / support / facilitate | `facilitate` = 使…更容易 |
 | need (v.) | require / necessitate / call for | 学术文体少用 `need` |
@@ -93,9 +93,9 @@
 | cause (v.) | lead to / result in / give rise to / trigger / bring about | `give rise to` 后接名词 |
 | because of | owing to / due to / as a result of / on account of | `due to` 后接名词 |
 | so | therefore / consequently / as a result / hence | 别用 `so` 开头 |
-| But | However / Nevertheless / That said | `But` 不作句首 |
+| But | However / Nevertheless / That said | `But` 可以置于句首；正式度和逻辑关系决定选择 |
 | also | moreover / furthermore / in addition / what is more | |
-| I think | In my view / I would argue that / It seems to me that | 避免 `I think` |
+| I think | In my view / I would argue that / It seems to me that | `I think` 并非错误，但重复使用可能显得单调 |
 | more and more | an increasing number of / a growing proportion of | 后接复数可数名词 |
 | things | （删掉，换具体名词） | `thing` 是禁词 |
 | kids | children / young people / youngsters | |
@@ -1180,9 +1180,9 @@ It follows that {推论}.
 The same logic applies to {同类现象}.
 ```
 
-### 4.5 来自 460 篇范文的"高频真实块"（带出现频次）
+### 4.5 内部语料中的高频词块（带出现频次）
 
-> 下表是从 **460 余篇 Task 2 考生范文**语料里逐条统计出来的真实高频块（频次只代表该语料，不代表官方数据）。**频次高的优先背**——它们是被反复验证“用得上”的。
+> 下表记录内部 Task 2 学习者语料中的频次。频次只代表该语料，不代表官方数据或高分质量；优先学习仍要结合表达功能和个人需要。
 >
 > ⚠️ 两条使用原则：① **频次 ≠ 分数**，被用滥的块（见本节末警告）照样要删；② 与下表**同义但频次为 0** 的说法（如 `bear the cost of`、`curb emissions`、`screen time`）并不是错，只是这批范文语料里没怎么出现，**不必因此回避**。
 
@@ -1258,16 +1258,16 @@ to conclude / in summary / to sum up              （33 / 28 / 15 次）
 for the reasons mentioned above                  （24 次）综上所述
 ```
 
-**⚠️ 高频 ≠ 高分**：以上有些块（如 `last but not least` 19 次、`nowadays` 开头）因为被用滥，band 9 指南把它们列为"应避免的填充表达"。**频次表用来确认"这个词组确实存在于真实高分作文"，不是用来鼓励全篇堆砌**。同一篇作文里，因果连接词出现 3–4 次、表态词 2–3 次即可。
+**高频不等于高分**：`last but not least`、句首 `nowadays` 等表达在学习者语料中可能很常见，但也容易显得公式化。频次表只确认表达在这批文本中出现过，不证明它适合高分作文，也不规定每篇应出现几次。
 
 ---
 ---
 
-## 5. 高危词黑名单（别用或慎用）
+## 5. 高风险用法清单（结合语境判断）
 
-> 这些词在词汇书里等级很高，但**在雅思作文里极易用错或显得做作**。考官看到会皱眉。
+> 本节列出常见语域、搭配或强度风险。不要把任何单词视为自动扣分项。
 
-### 5.1 直接不要用（口语 / 网络 / 缩写）
+### 5.1 正式议论文中通常需要调整
 ```
 kids → children               a lot of → many / a great deal of
 things → （换具体名词）        stuff → （换具体名词）
@@ -1279,7 +1279,7 @@ In a nutshell → In conclusion
 Last but not least → Finally
 Nowadays（句首）→ In recent years / At present
 ```
-> 说明：`Nowadays` 并非错误，但 band 9 指南把它列为"填充词"，因为它降低句子的信息密度。少用或不用。
+> `Nowadays` 并非错误。只有在它没有提供有用时间信息，或被机械用作开头时才需要删除或具体化。
 
 ### 5.2 慎用（要么搭配难，要么语气过重）
 | 词 | 问题 | 更安全的选择 |

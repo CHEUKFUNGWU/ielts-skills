@@ -10,7 +10,7 @@
 > 最后附 `⑤ 反例诊断`：同一个骨架用错会变成什么样。
 >
 
-> **配套**：句式骨架见 `../patterns.md`；词汇与论点见 `../vocabulary.md`。
+> **配套**：句式骨架见 `patterns.md`；词汇见 `vocabulary.md`。
 
 ---
 
@@ -18,7 +18,7 @@
 
 **题目原型**：`The chart below shows {被测物} in {地点} between {年} and {年}.`
 
-### 骨架（固定不变）
+### 骨架（作为起点，按图表调整）
 
 ```
 Introduction: The {图表名词} {动词} {信息内容} in {地点} {时间范围}.
@@ -34,8 +34,8 @@ Body 2:       {项目 C} {趋势动词}, {分词短语}. {项目 A} accounted fo
 | 槽位 | 话题 A：能源消耗 | 话题 B：上网人数 | 话题 C：咖啡出口 |
 |---|---|---|---|
 | 图表名词 | line graph | bar chart | line graph |
-| 信息内容 | changes in electricity consumption | the number of households with internet access | coffee export volumes |
-| 被测物 | electricity consumption / the amount of electricity used | the number of households connected to the internet | coffee exports / the volume of coffee exported |
+| 信息内容 | electricity generated from three energy sources | the number of households with internet access | coffee export volumes |
+| 被测物 | electricity generation / the amount of electricity generated | the number of households connected to the internet | coffee exports / the volume of coffee exported |
 | 最高项 / 最低项 | coal / renewables | urban households / rural households | Brazil / Vietnam |
 | 上升动词 | rose / climbed / surged | rose / increased steadily | grew / increased |
 | 下降动词 | fell / declined / dropped | fell / dipped | declined / dropped |
@@ -44,16 +44,16 @@ Body 2:       {项目 C} {趋势动词}, {分词短语}. {项目 A} accounted fo
 ### 成品段落（话题 A 写好，话题 B / C 按槽替换即可）
 
 **Introduction**
-> The line graph illustrates changes in electricity consumption in four countries over a twenty-year period.
+> The line graph illustrates the amount of electricity generated from three energy sources between 1990 and 2010.
 
 **Overview**
-> Overall, coal remained the most widely used source of electricity throughout the period, whereas renewables accounted for the smallest share.
+> Overall, coal remained the largest source of electricity throughout the period. Renewable generation recorded the fastest proportional growth and overtook oil by 2010.
 
 **Body 1**
-> Coal consumption rose steadily from 120 terawatt-hours in 1990 to 210 terawatt-hours in 2010, reaching its highest level at the end of the period. By contrast, the amount of electricity generated from oil fell considerably, dropping from 90 to 45 terawatt-hours over the same twenty years.
+> Electricity generation from coal rose steadily from 120 terawatt-hours in 1990 to 210 terawatt-hours in 2010, reaching its highest level at the end of the period. By contrast, the figure for oil fell considerably, dropping from 90 to 45 terawatt-hours over the same twenty years.
 
 **Body 2**
-> Renewables, meanwhile, fluctuated only slightly for most of the period before rising sharply after 2005, when output climbed from 20 to 60 terawatt-hours. Although coal accounted for the largest share throughout, at around 45%, its dominance was noticeably reduced by 2010, with the figure for renewables roughly three times higher than it had been in 1990.
+> Renewable generation, meanwhile, fluctuated only slightly for most of the period before rising sharply after 2005, when output climbed from 20 to 60 terawatt-hours. Although coal remained dominant in 2010, renewables finished the period 15 terawatt-hours above oil and at three times their 1990 level.
 
 ### ⑤ 反例诊断
 

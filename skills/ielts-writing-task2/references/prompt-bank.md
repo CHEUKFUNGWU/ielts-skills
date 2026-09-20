@@ -1,6 +1,8 @@
 # IELTS Task 2 真题题干题库（按话题分类）
 
 > **题库**：**460 余道 Task 2 真题题干**，去重后 **359 道**，按话题归类并清理了扫描噪声。
+>
+> **来源边界**：当前仓库没有逐题来源、考试日期或授权记录，因此“真题”属于原材料标签，不能在本仓库内独立核验。维护或公开再发布前，应补充来源清单并确认题目文本的使用权限；无法核验的题目应改称“练习题”。
 > **用途**：① 考前扫话题，熟悉真实题干的措辞模式；② 训练 30 秒拆题（找 Topic + Task）；③ 配合 `vocabulary.md` 逐个话题过词汇与论点。
 > **使用建议**：不要通读。每次挑一个话题的 10 道题，只看题干，用 30 秒说出①话题 ②指令 ③自己的立场与两条理由，然后对照 `patterns.md` 找骨架。
 > **注意**：题干由关键词自动归类，少数跨话题题目可能落在相邻分类；原文截断处标注 `...`。
@@ -423,4 +425,3 @@
 41. Do you agree or disagree with this statement?
 42. Is this a positive or a negative development?
 43. To what extent do you agree or disagree? What other measures do you think might be effective?
-
