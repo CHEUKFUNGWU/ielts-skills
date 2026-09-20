@@ -59,6 +59,7 @@ Manual installation also works. Copy a skill folder into the skills directory us
 skills/
   ielts-writing-task1/
     SKILL.md
+    references/band-ladders.md
     references/guide.md
     references/grading-protocol.md
     references/patterns.md
@@ -66,6 +67,7 @@ skills/
     references/worked-examples.md
   ielts-writing-task2/
     SKILL.md
+    references/band-ladders.md
     references/guide.md
     references/grading-protocol.md
     references/patterns.md

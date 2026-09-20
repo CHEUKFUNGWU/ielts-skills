@@ -66,6 +66,7 @@ license: MIT
 | `references/prompt-bank.md` | 359 道真题题干，按 20 个话题分类 | Drill 模式拆题训练 |
 | `references/worked-examples.md` | 5 组完整演示：观点题、讨论题、同义替换、跨话题搬运、40 分钟流水线 | 需要展示"骨架如何组装成段落"时 |
 | `references/grading-protocol.md` | Grade 模式的输入门槛、四项评分证据、错误代码、默认输出与反馈边界 | 每次完整批改前必读 |
+| `references/band-ladders.md` | 同一篇学生原稿按 Task Response、组织和语言逐轮修改的对比范例 | 用户需要理解“怎样从当前水平改上去”时 |
 
 ## 边界
 

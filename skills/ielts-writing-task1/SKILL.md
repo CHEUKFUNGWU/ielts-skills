@@ -51,6 +51,7 @@ license: MIT
 | `references/vocabulary.md` | 趋势动词、程度副词配对、同义替换、份额/比较/近似/时间/方位语言、用词雷区 | 润色语言、替换重复用词时 |
 | `references/worked-examples.md` | 2 组完整演示：线图（一套骨架 × 三个话题）、流程图 | 需要展示"骨架如何组装成段落"时 |
 | `references/grading-protocol.md` | Grade 模式的输入门槛、四项评分证据、错误代码、默认输出与反馈边界 | 每次完整批改前必读 |
+| `references/band-ladders.md` | 同一篇学生原稿按 Task Achievement、组织和语言逐轮修改的对比范例 | 用户需要理解“怎样从当前水平改上去”时 |
 
 ## 边界
 
